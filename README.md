@@ -1,2 +1,2 @@
-# learn-js
+# Vladimirrss
 js examples for fast learning
